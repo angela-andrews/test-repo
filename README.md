@@ -11,6 +11,9 @@ Like Maya Angelou said:
 
 To practice your markdown, check out this [link](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 
+Make sure you start every bash script with:
+```#!/bin/bash```
+
 ![Bash Script Example](https://github-testjawn.s3.amazonaws.com/bash-example.png)
 
 
